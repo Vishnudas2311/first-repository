@@ -21,6 +21,7 @@ define(['N/email', 'N/record', 'N/runtime', 'N/search'],
          */
         const beforeLoad = (scriptContext) => {
             //change for pushing example
+            //change using desktop app
 
         }
 
