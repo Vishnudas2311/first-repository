@@ -20,6 +20,7 @@ define(['N/email', 'N/record', 'N/runtime', 'N/search'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
+            //change for pushing example
 
         }
 
